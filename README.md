@@ -1,4 +1,4 @@
-## Hi there 👋
+## 대학생 박상현의 경력 모음집👋
 
 <!--
 **shachaive/shachaive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
